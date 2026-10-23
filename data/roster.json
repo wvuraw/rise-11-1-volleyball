@@ -1,4 +1,68 @@
 {
-  "teamId": "ISvt-TmSh01-ris-zemnTiT96Cao",
-  "players": []
+  "players": [
+    {
+      "claimedPlayerId": "",
+      "id": "gw1e-TpSh01-mac-vp4KIgor2KVx",
+      "isActive": true,
+      "jerseyNum": "4",
+      "name": "Macy Williams"
+    },
+    {
+      "claimedPlayerId": "",
+      "id": "SEwQ-TpSh01-add-TLCh7EB8887f",
+      "isActive": true,
+      "jerseyNum": "7",
+      "name": "Addisyn Meador"
+    },
+    {
+      "claimedPlayerId": "",
+      "id": "OSCs-TpSh01-aud-blpwK1nUfEAV",
+      "isActive": true,
+      "jerseyNum": "9",
+      "name": "Audrey Chiplinski"
+    },
+    {
+      "claimedPlayerId": "",
+      "id": "9Zs7-TpSh01-mar-6Cv4ExdR1hnC",
+      "isActive": true,
+      "jerseyNum": "10",
+      "name": "Mara Hathaway"
+    },
+    {
+      "claimedPlayerId": "",
+      "id": "zaFR-TpSh01-kat-To0cAORd5Iqr",
+      "isActive": true,
+      "jerseyNum": "11",
+      "name": "Kate Kleeh"
+    },
+    {
+      "claimedPlayerId": "",
+      "id": "9FFy-TpSh01-vis-S3MmV9y0RHCY",
+      "isActive": true,
+      "jerseyNum": "13",
+      "name": "Vista Stringer"
+    },
+    {
+      "claimedPlayerId": "",
+      "id": "JdL5-TpSh01-mck-KNu5zGzY0Y4j",
+      "isActive": true,
+      "jerseyNum": "17",
+      "name": "McKinley Sowards"
+    },
+    {
+      "claimedPlayerId": "",
+      "id": "3jvP-TpSh01-mar-u0FbIacpYLC4",
+      "isActive": true,
+      "jerseyNum": "23",
+      "name": "Marcelius Wyche"
+    },
+    {
+      "claimedPlayerId": "",
+      "id": "BMq1-TpSh01-mac-F3TDSnFHaHt9",
+      "isActive": true,
+      "jerseyNum": "",
+      "name": "Maci Vavrek"
+    }
+  ],
+  "teamId": "ISvt-TmSh01-ris-zemnTiT96Cao"
 }
